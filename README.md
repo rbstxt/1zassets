@@ -20,5 +20,7 @@ Audio is rebuilt from the music inside each work's project file
 the project), encoded once to AAC at 256 kb/s and placed so the song starts exactly
 on the first frame. Waiting for you keeps the audio of its published video, because
 part of its soundtrack came from video clips that are missing from its project file.
+Part is encoded from its original master export (1080p60, AAC 317 kb/s), with that
+audio copied untouched.
 
 Project files, thumbnails and the site itself are served from Cloudflare, not from here.
